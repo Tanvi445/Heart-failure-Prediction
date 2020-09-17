@@ -34,3 +34,16 @@ Data Source - https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 |11| Smoking | If the patient smokes or not (boolean) | 
 |12| Time | Follow-up period (days) | 
 |13| DEATH_EVENT | If the patient deceased during the follow-up period (boolean) - Target variable| 
+
+## Credit to Authors:
+Citation Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020). (link)
+
+License CC BY 4.0
+
+Splash icon Icon by Freepik, available on Flaticon.
+
+Splash banner Wallpaper by jcomp, available on Freepik.
+
+
+
+The International Institute of Finance quotes, "The world is in $233 Trillion of debt". 
